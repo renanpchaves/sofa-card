@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sofa Card</title>
+
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div class="projetosofa">
+      <div id="img">
+        <div id="imgbuttons">
+          <button class="button360" onclick="showGif()">
+            <img src="assets/360.svg" alt="Visão 360" />
+          </button>
+          <button class="buttonBack" onclick="showStaticImage()">
+            <img src="assets/X.svg" alt="Visão estática" />
+          </button>
+        </div>
+        <img src="assets/Sofa.svg" alt="Sofa" class="sofa-image" />
+      </div>
+
+      <div id="txt">
+        <div class="code">Código: 42404</div>
+        <div class="sofaname">Sofá Margot II - Rosé</div>
+        <div class="price">R$4.000</div>
+        <button class="buttonadd">
+          <span class="cesta">adicionar à cesta</span>
+        </button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
