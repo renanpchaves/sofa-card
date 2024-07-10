@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="projeto SofaCard preview" src="./preview.png"><br>
+  <p align="center">
+
 ## 🌞 Tecnologias
 
 - HTML e CSS
