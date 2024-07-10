@@ -1,3 +1,5 @@
+<h1 align="center">Sofa Card</h1>
+
 <p align="center">
   <img alt="projeto SofaCard preview" src="./preview.png"><br>
   <p align="center">
