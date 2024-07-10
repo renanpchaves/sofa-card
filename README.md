@@ -1,7 +1,3 @@
-<p align="center">
- Sofa Card!<br/>
-</p>
-
 ## 🌞 Tecnologias
 
 - HTML e CSS
